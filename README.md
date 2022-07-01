@@ -17,6 +17,6 @@ Here, you can find everything healthy, cheap and valuable.
 3. Quinoa Lentil Salad
 
 
-add
+**added wireframe**
 ![](index.jpg)
 ![](about.jpg)

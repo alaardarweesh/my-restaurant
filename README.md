@@ -19,7 +19,13 @@ Here, you can find everything healthy, cheap and valuable.
 3. Quinoa Lentil Salad
 
 
+wireframe
+**added wireframe**
+![](index.jpg)
+![](about.jpg)
+
 ![](https://images01.nicepage.com/page/10/20/web-page-design-preview-102038.jpg)
 
 
 More to know about vegan diet [click here](https://www.rush.edu/news/health-benefits-vegan-diet)
+main

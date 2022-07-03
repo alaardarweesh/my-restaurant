@@ -37,5 +37,13 @@ TIME:
 
 
 More to know about vegan diet [click here](https://www.rush.edu/news/health-benefits-vegan-diet)
-main
-main
+
+
+
+OBSERVATIONS:
+-I think one lecture for CSS is not enough. I need to practise it well i Eid holiday
+-Many parts need from us many trials until they work
+
+TIME:
+-I thought It would take an hour
+-It took two hours
